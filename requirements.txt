@@ -1,0 +1,11 @@
+numpy
+pandas
+sklearn
+nltk
+tensorflow
+tensorflow_hub
+wordcloud
+matplotlib
+scipy
+seaborn
+librosa
