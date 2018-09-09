@@ -2,6 +2,7 @@ numpy
 pandas
 sklearn
 nltk
+keras
 tensorflow
 tensorflow_hub
 wordcloud
