@@ -11,3 +11,5 @@ scipy
 seaborn
 librosa
 msgpack
+webrtcvad
+
